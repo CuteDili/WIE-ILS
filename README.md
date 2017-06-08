@@ -1,2 +1,2 @@
-# WIE-ILS
-Website for IEEE WIE ILS 2017
+# WIE_Summit
+Website for IEEE WIE ILS Sri Lanka 2017 
