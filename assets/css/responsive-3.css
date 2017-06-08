@@ -9,6 +9,11 @@
 	 * Header Navbar Style
 	 * =============================
 	 */
+
+  #myNavbar {
+    height: 140px;
+  }
+
   .header-nav ul {
     margin: 0 -15px !important;
   }
@@ -164,7 +169,7 @@
     overflow: hidden;
   }
   .header-nav-2 .nav li a {
-    padding: 12px 22px !important;
+    padding: 12px 14px !important;
   }
   .header-nav-2.navbar-home {
     background-color: rgba(255, 255, 255, 0.9) !important;
@@ -222,6 +227,10 @@
   /* Download Button Style */
   .defult-use-btn .btn {
     padding: 13px 12px;
+  }
+
+  .header-nav-2 .nav li a {
+    padding: 12px 7px !important;
   }
   /**
 	 * =============================

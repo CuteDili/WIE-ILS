@@ -2844,18 +2844,12 @@ aside .thumbnail {
   position: relative;
   }
 
-@media (min-width: 1200px){
-  #myNavbar {
-    height: 125px;
-  }
-}
-
 #myNavbar {
   height: 70px;
 }
 
 .about {
-  max-width: 98px;
+  max-width: 75px;
 }
 .about li a {
   color: #914891!important;
@@ -2867,7 +2861,7 @@ aside .thumbnail {
 }
 
 .partnership {
-  max-width: 110px;
+  max-width: 87px;
 }
 .partnership li a {
   color: #914891!important;
